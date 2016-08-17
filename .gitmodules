@@ -1,0 +1,3 @@
+[submodule "EaseUnreal/Plugins/EASE"]
+	path = EaseUnreal/Plugins/EASE
+	url = git@gitlab.com:evr-unreal/plugin.git
